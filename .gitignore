@@ -1,0 +1,5 @@
+#제외 파일
+.ipynb_checkpoints/
+bin/
+lib/
+pyvenv.cfg
